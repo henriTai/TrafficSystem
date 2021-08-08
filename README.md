@@ -27,11 +27,7 @@ Considering the short time frame and lack of previous experience of developing s
 
 SKILLSET DEMONSTRATION
 
-I hope this code sample demonstrates that I am...
-
-1) Quick to adapt new concepts
-2) Proficient (yet a lot to learn) in tool development. (I also like graphics programming, and I would like to develop my skillset towards technical artist related areas in the future)
-3) Good understanding of Unity / C#
+I hope this sample showcases my general know-how with Unity at at this moment and my ability to design tools to enhance workflow. Of these scripts I'm especially pleased with the road creation tool scripts (ParallelBezierSplines.cs, ParallelBezierSplinesInspector.cs, IntersectionTool.cs, IntersectionToolInspector.cs). The usage of these tools is demonstrated in the this video https://drive.google.com/file/d/1eotpLKeEh9e24v911EbFzfwRBqIF4iVL/view?usp=sharing and this written user guide https://drive.google.com/file/d/1jwPRdeip8V-d_bzuRwhruFJoF9e0enQS/view?usp=sharing (both in finnish).
 
 ABOUT THE TRAFFIC SYSTEM
 
